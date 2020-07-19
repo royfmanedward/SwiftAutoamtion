@@ -1,4 +1,4 @@
-# Myca Arcangel - Zwift Automation Test
+# ed royfman - Zwift Automation Test
 Simple Java+Selenium UI tests on Zwift website 
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
